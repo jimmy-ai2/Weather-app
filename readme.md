@@ -40,10 +40,9 @@ A clean, minimal weather dashboard that delivers real-time conditions for any ci
 
 ## Screenshots
 
-| Default State                           | Search Results                           |
-| --------------------------------------- | ---------------------------------------- |
+| Default State                           | Search Results                          |
+| --------------------------------------- | --------------------------------------- |
 | ![Default State](snapshots/default.png) | ![Search Results](snapshots/result.png) |
-
 
 ## Future Improvements
 
